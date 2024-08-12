@@ -1,0 +1,43 @@
+{
+  "intense": [
+    {
+      "tag": "greeting",
+      "patterns": ["hello", "hi", "greetings", "howdy"]
+    },
+    {
+      "tag": "where_to_donate",
+      "patterns": ["where can I donate", "how to donate", "donation process", "where to give donations"]
+    },
+    {
+
+      "tag": "y4d_foundation",
+      "patterns": ["Tell me about Y4D Foundation", "What does Y4D Foundation do?", "Y4D Foundation initiatives"],
+      "responses": ["Y4D Foundation focuses on youth development through education and training.", "They offer various programs aimed at empowering young individuals.", "You can learn more about their initiatives on their official website."]
+    },
+    {
+      "tag": "katalyst",
+      "patterns": ["What is Katalyst?", "Tell me about Katalyst", "Katalyst initiatives"],
+      "responses": ["Katalyst works on improving access to education and vocational training.", "Their initiatives include scholarships and skill development workshops.", "They collaborate with several partners to enhance educational opportunities."]
+    },
+    {
+      "tag": "seva_sahayog",
+      "patterns": ["Tell me about Seva Sahayog", "What does Seva Sahayog do?", "Seva Sahayog projects"],
+      "responses": ["Seva Sahayog is dedicated to community development and social welfare.", "They provide resources and support for underprivileged communities.", "Their projects include health camps, education programs, and more."]
+    },
+    {
+      "tag": "mission_and_vision",
+      "patterns": ["What is the mission?", "Tell me about the vision", "What are the goals?"],
+      "responses": ["Our mission is to provide detailed information about NGOs and their initiatives.", "We aim to assist you in understanding various social impact organizations."]
+    },
+    {
+      "tag": "donation_information",
+      "patterns": ["How can I donate?", "Donation information", "Where to donate"],
+      "responses": ["For donation information, please visit the respective NGO's official website.", "Each NGO has specific guidelines and processes for making donations."]
+    },
+    {
+      "tag": "partnerships",
+      "patterns": ["Who do NGOs partner with?", "Partnerships and collaborations", "NGO partners"],
+      "responses": ["NGOs often partner with corporations, government agencies, and other organizations.", "Partnerships help amplify their impact and reach more people in need."]
+    }
+  ]
+}
